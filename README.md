@@ -1,5 +1,5 @@
 # A gem to easily add mobile support to your Rails app!
-
+# Test commit change
 
 ## To install
 
